@@ -14,7 +14,7 @@
 
 ### Links
 
-- Solution URL: [https://riquelme3m.github.io/iJunior-Trainee-Interactive-Card/](https://riquelme3m.github.io/iJunior-Trainee-Interactive-Card/)
+- Solution URL: [https://riquelme3m.github.io/iJunior-QR-Code-Challenge/](https://riquelme3m.github.io/iJunior-QR-Code-Challenge/)
 
 ### Built With
 
